@@ -8,7 +8,7 @@ Recommender Sysytems can be classifed into two types :
 (1) Collaborative Filetring 
 (2) Content Based FIltering
 
-In which Collaborative filtering has two types:
+In which, Collaborative filtering has two types:
 (a) Memory based 
 (b) Model  based
 
